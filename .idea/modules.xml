@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base_spring_cloud.iml" filepath="$PROJECT_DIR$/base_spring_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-config/security-config.iml" filepath="$PROJECT_DIR$/security-config/security-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-consumer/user-consumer.iml" filepath="$PROJECT_DIR$/user-consumer/user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service-api/user-service-api.iml" filepath="$PROJECT_DIR$/user-service-api/user-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service-provider/user-service-provider.iml" filepath="$PROJECT_DIR$/user-service-provider/user-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
